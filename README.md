@@ -1,12 +1,15 @@
-### Hi there, I'm [Mohammad Habibpour](https://habibpour.ir) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+### Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm [Mohammad Habibpour](https://habibpour.ir) 
 
-
-**Mohammad Habibpour's GitHub stats:**  
+  
 </a>
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=MohammadHabibpour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MohammadHabibpour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 
-**Languages and Tools:**  
+
+## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mohammadhabibpour) 
