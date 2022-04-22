@@ -2,7 +2,7 @@
 
   
 </a>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MohammadHabibpour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=MohammadHabibpour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&bg_color=000" />
 
 
 ## Languages and Tools:
