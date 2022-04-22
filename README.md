@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mohammad Habibpour](https://habibpour.ir) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 
-![Mohammad Habibpour's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadHabibpour&theme=dark&show_icons=true)
+![Mohammad Habibpour's GitHub stats](https://ghttps://github-readme-stats.vercel.app/api?username=MohammadHabibpour&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 **Languages and Tools:**  
 
